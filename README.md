@@ -18,7 +18,7 @@ The purpose of this repository is to learn how to set up a working environment t
 ## About Holberton
 
 <p>
-<img height="120" src="https://blog.holbertonschool.com/wp-content/uploads/2020/04/unnamed-2.png" align="right" >
+<img height="150" src="https://blog.holbertonschool.com/wp-content/uploads/2020/04/unnamed-2.png" align="right" >
 </p>
 
 Holberton teaches full-stack software engineering with a project-based approach.
